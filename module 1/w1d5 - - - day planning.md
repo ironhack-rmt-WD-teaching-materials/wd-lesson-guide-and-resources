@@ -56,6 +56,8 @@ Check also tips & suggestions from Julie.
 
 
 ## Active Learning
+  
+  <!-- LT: congratulate students on their 1st week -->
 
 - survey [5min.]
 - (individual) LAB | JS Book Objects
@@ -80,6 +82,13 @@ Check also tips & suggestions from Julie.
   - Some examples and recommendations:
     - https://chatgpt.com/share/691f3e8e-a9c8-8003-adb2-09ccd3008046
 
+  -->
+
+
+  <!--
+    LT:
+    - common error: working on those tasks right at the end of the deadline.
+    - remind students that the course is designed for people without previous experience, but not for anyone that doesn't put the effort.
   -->
 
 - (bonus) LAB | JavaScript Clue

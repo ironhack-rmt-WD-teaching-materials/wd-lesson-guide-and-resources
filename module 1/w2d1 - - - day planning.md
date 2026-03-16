@@ -8,9 +8,10 @@
 Planning:
 
 - introduce callback & anonymous functions (do example with forEach) [30min.]
-  - Practice forEach (arr of strings + array of objects): https://stackblitz.com/edit/js-me2yip?file=index.js
-  - Time: 10min.
-  - Solution: https://stackblitz.com/edit/js-byttax?file=index.js
+  - Practice forEach (array of strings + array of objects): 
+    - Instructions: https://stackblitz.com/edit/js-me2yip?file=index.js
+    - Time: 10min.
+    - Solution: https://stackblitz.com/edit/js-byttax?file=index.js
 
 - OOP: intro + oop with plain objects [30min.]
 - OOP: ES6 Classes + Exercise I [1.5h]
@@ -46,5 +47,7 @@ Also, can already do OOP assessment (DL will be w3d1).
 @todo mini-project: 
 - instructions for mini-project are duplicated between project brief & day tasks.
 - also, in day 1, instructions say that all team members should clone, but we still haven't seen how to split tasks (so it's better to just do pair programming)
+
+@LT: check lab submissions (ie. check that all students are on track)
 -->
 

@@ -7,7 +7,7 @@
 <!--
 
 methodology: 
-- go briefly through them on the students portal (5min.)
+- go briefly through them on the Student Portal (5min.)
 
 (it could also be self guided)
 
@@ -114,7 +114,7 @@ element[attr-name='value'] {
 
 - Target elements with the specified attribute
 
-- Also allows to do things like "begins with", "contains", etc (see table on students portal)
+- Also allows to do things like "begins with", "contains", etc (see table on Student Portal)
 
 Ex:
   ```css

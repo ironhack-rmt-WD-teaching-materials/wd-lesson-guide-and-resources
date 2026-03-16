@@ -97,8 +97,8 @@ Desktop:
 
 
 Repo: 
-- Code: https://github.com/ironhack-rmt-materials/bootstrap-codealong
-- Demo: https://ironhack-rmt-materials.github.io/bootstrap-codealong/
+- Code: https://github.com/ironhack-rmt-WD-teaching-materials/bootstrap-codealong
+- Demo: https://ironhack-rmt-WD-teaching-materials.github.io/bootstrap-codealong/
 
   <!-- @LT: deploy on another account -->
 

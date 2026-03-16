@@ -1,13 +1,13 @@
 
 
 
-# "React - Building the Rest API" - things to fix in the students portal
+# "React - Building the Rest API" - things to fix in the Student Portal
 
 
 Affects:
 - "React | Building the Rest API"
-  - students portal x2
-  - repo with final result from students portal x1
+  - Student Portal x2
+  - repo with final result from Student Portal x1
 
 
 Fix:

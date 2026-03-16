@@ -144,7 +144,7 @@ Fizz-Buzz
 
 - Assignment: x = y
 - Addition assignment: +=
-- (brief) Others: see students portal
+- (brief) Others: see Student Portal
 
 
 
@@ -160,7 +160,7 @@ Fizz-Buzz
 
 ### Operator Precedence
 
-(brief) see students portal
+(brief) see Student Portal
 
 
 > Operator Precedence 1: `2 + 2 * 5 + (4 - 2)`

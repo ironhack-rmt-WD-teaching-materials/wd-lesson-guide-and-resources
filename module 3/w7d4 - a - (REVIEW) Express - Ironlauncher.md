@@ -125,24 +125,24 @@ npm install nodemon@3.1.0 --save-dev
 
 ### Adding the model
 
-- Add Book model (students portal: 'Adding the model')
+- Add Book model (Student Portal: 'Adding the model')
   `models/Book.model.js`
 
-  - IMPORTANT: follow the same model as students portal (so that we can use seed file later)
+  - IMPORTANT: follow the same model as Student Portal (so that we can use seed file later)
 
-  - Example: https://github.com/ironhack-rmt-resources/library-project-crud-codealong/blob/main/models/Book.model.js
+  - Example: https://github.com/ironhack-rmt-WD-student-materials/library-project-crud-codealong/blob/main/models/Book.model.js
 
 
 ### Seed File
 
-- Create seed file (students portal: 'Creating a seed file')
+- Create seed file (Student Portal: 'Creating a seed file')
   - Explain: What is a seed file + why it is useful
   - Add the code or codealong (`/bin/seeds.js`)
   - Run seed file (`$ node bin/seeds.js`)
   - Check data is loaded (Compass)
 
   - Example Seeds File: 
-    - https://github.com/ironhack-rmt-resources/library-project-crud-codealong/blob/main/bin/seeds.js
+    - https://github.com/ironhack-rmt-WD-student-materials/library-project-crud-codealong/blob/main/bin/seeds.js
 
 
 

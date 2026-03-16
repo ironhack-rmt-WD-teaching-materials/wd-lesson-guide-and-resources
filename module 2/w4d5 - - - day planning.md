@@ -16,7 +16,7 @@
     - basic routing
     - url params
 
-- Spread operator [10m]
+- Spread operator [20m]
 
 - Forms: [2.5h]
   - functionality to add movies (Step 1: form with 1 field)
@@ -34,6 +34,7 @@ Extra:
 ## Active Learning
 
 <!-- @LT: tell students they may want to ask someone if they want to partner for project 2 -->
+<!-- @LT: check lab submissions (ie. check that all students are on track) -->
 
 
 - (individual) LAB React Exponents Counter
@@ -54,6 +55,6 @@ Extra:
 
 Bonus:
 - Implement search filter (web dev simplified, 14min.): https://www.youtube.com/watch?v=E1cklb4aeXA&t=335s
-- In the students portal, you'll find quite a few extra labs
+- In the Student Portal, you'll find quite a few extra labs
 
 

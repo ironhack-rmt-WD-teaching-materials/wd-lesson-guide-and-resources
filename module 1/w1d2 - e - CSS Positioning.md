@@ -44,7 +44,7 @@ Fixed
 
 Absolute
 
-Sticky (currently missing in the students portal)
+Sticky (currently missing in the Student Portal)
   - A sticky element toggles between relative and fixed, depending on the scroll position.
 
 

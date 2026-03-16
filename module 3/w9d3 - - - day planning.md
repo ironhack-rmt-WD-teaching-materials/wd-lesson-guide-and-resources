@@ -11,7 +11,7 @@
 
 - 12:00: standup
 
-- Submit URLs in the students portal. Deadline: 5pm
+- Submit URLs in the Student Portal. Deadline: 5pm
 
 
 - Note: it's Wednesday, it's normal if the your project isn't finished yet (but make sure to submit URLs + make sure you submit the correct URL).

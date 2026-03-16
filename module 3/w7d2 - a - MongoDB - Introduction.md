@@ -53,7 +53,7 @@ Slides ("Intro to Databases & MongoDB"):
 
 
 - Data types in MongoDB:
-  - most common: see students portal
+  - most common: see Student Portal
   - full list: https://docs.mongodb.com/manual/reference/bson-types/
   - (note: we'll be using Mongoose & data types are a bit different)
 

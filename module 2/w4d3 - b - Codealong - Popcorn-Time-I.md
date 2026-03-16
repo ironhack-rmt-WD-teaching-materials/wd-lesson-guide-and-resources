@@ -65,7 +65,7 @@ Time: 10min. + solve together.
 
 From `MovieList.jsx`, load list of movies from a `json` file:
 - Create `data/movies.json`
-- Sample json file: https://github.com/ironhack-sept2024-devstructors/react-popcorn-time/blob/main/src/data/movies.json
+- Sample json file: https://github.com/ironhack-nov2025-theDevBlinders/w4d3-popcorn-time/blob/main/src/data/movies.json
 - In MovieList.js: `import movies from "../data/movies.json";`
 
   <!-- IMPORTANT: add this in MovieList.js -->
@@ -142,7 +142,7 @@ Steps:
 - Update state when user clicks on button
 
 ```js
-  const deleteMovie = movieId => {
+  const deleteMovie = (movieId) => {
     const filteredMovies = movies.filter(movie => {
       return movie._id !== movieId;
     });

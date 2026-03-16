@@ -37,7 +37,7 @@ Diagram MERN (including Mongoose):
   - https://seguridad.cicese.mx/uploads/notautic/utic23-5a3c250c42cae.png
 
 
-- Example (students portal: "Example of MVC Pattern"):
+- Example (Student Portal: "Example of MVC Pattern"):
 
   ```js
     router.get('/product-list', (req, res) => {
@@ -92,7 +92,7 @@ Summary of functionality we'll implement:
   - Arrays:
     - e.g. array of strings: `ingredients: [String]`
   - ...
-  - See students portal: "Supported data types in schemas"
+  - See Student Portal: "Supported data types in schemas"
   - Full list: https://mongoosejs.com/docs/schematypes.html
 
 
@@ -109,7 +109,7 @@ Summary of functionality we'll implement:
   ```
 
 
-### d) Mongoose Validators (see students portal)
+### d) Mongoose Validators (see Student Portal)
 
 - `default`
     ```js
@@ -151,7 +151,7 @@ Summary of functionality we'll implement:
 - `min`, `max`
 
 
-- Others (see students portal)
+- Others (see Student Portal)
 - minlength
 - maxlength
 - trim
@@ -230,7 +230,7 @@ Note: for error handling, use this pattern (and explain why):
 
 ## Practice: mongoose methods
 
-Instructions: https://github.com/ironhack-rmt-resources/exercise-mongoose-methods
+Instructions: https://github.com/ironhack-rmt-WD-student-materials/exercise-mongoose-methods
 
 Time: 20min.
 

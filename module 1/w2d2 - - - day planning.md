@@ -3,7 +3,7 @@
 
 
 
- IMPORTANT: Contents heavy + LAB really demanding = focus on fundamentals.
+ IMPORTANT: there's a lot of topics today. Focus on fundamentals.
 
 
 ## Day Planning
@@ -17,7 +17,7 @@
     - example 1: https://stackblitz.com/edit/js-gg34n7cp?file=index.js
     - example 2 (same, but now we keep the list of shops in the class Company): https://stackblitz.com/edit/js-95nmb3bx?file=index.js
     <!-- @LT: in mini-project d3, they'll need to work with an array of instances + iterate through it -->
-  - JS functions [1.5h]
+  - JS functions Advanced [1.5h]
   - Arrays: map, reduce, filter [2h] -- `focus!!`
   - Arrays: sort and reverse -- self guided
 

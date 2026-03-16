@@ -103,7 +103,7 @@ Summary of steps:
       - Url would be: https://our-cool-project-management-app.onrender.com
     - Branch (e.g. "main")
     - Root directory
-      - example of when you may need it: https://github.com/ironhack-rmt-resources/library-project-deployment-demo-2
+      - example of when you may need it: https://github.com/ironhack-rmt-WD-student-materials/library-project-deployment-demo-2
       - example where you don't need it (code and package.json in the root of your repo): https://github.com/ironhack-demos/demo-deployment-project-3-backend
     - Start command: "npm run start" (in our case, since we're using npm)
     - Instance Type: "Free"
@@ -254,7 +254,7 @@ Summary of steps:
     - whenever you push on the main branch, it will trigger a deploy
 
 
-- (not in the video) Remember to submit project urls in the students portal (3 urls)
+- (not in the video) Remember to submit project urls in the Student Portal (3 urls)
   - Show: week 9
 
 

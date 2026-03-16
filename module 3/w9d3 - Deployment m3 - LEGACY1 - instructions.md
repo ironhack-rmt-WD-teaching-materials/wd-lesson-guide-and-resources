@@ -44,9 +44,9 @@ Update:
 
 
 
-## Step 4: Submit URLs in students portal
+## Step 4: Submit URLs in Student Portal
 
-- IMPORTANT: As soon as you finish deployment, submit URLs in the students portal.
+- IMPORTANT: As soon as you finish deployment, submit URLs in the Student Portal.
 
 - Please make sure you submit the correct urls. 
 

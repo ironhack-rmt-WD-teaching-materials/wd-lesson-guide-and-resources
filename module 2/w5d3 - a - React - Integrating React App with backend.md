@@ -46,7 +46,7 @@ To run on a specific port:
 
 
 Intro: 
-- explain goal + show API endpoints (see Students Portal "Endpoints")
+- explain goal + show API endpoints (see Student Portal "Endpoints")
 - provide a list of milestones to follow (for each milestone, discuss how to implement it)
 
 Roadmap:
@@ -54,7 +54,7 @@ Roadmap:
       - create app
       - setup repo + upload to github
       - cleanup initial code
-      - copy index.css (get `index.css` from the students portal)
+      - copy index.css (get `index.css` from the Student Portal)
       - create `components/Navbar`, `pages/HomePage` and `pages/ProjectListPage`
       - setup routing
 - [ ] List of projects

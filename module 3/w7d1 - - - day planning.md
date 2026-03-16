@@ -39,7 +39,7 @@ Give feedback to students (e.g. if you see anything to they can learn from).
 <!-- 
 (optional) mini-project-3:
 - do a quick demo on how to run both the client and server
-- (can follow the instructions given in the students portal, important thing is that students get familiar with running 2 apps at the same time)
+- (can follow the instructions given in the Student Portal, important thing is that students get familiar with running 2 apps at the same time)
 -->
 
 

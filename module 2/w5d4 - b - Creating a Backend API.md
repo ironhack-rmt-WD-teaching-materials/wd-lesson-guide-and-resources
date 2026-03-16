@@ -8,7 +8,7 @@
 Status: ready
 
 
-@LT: do this with the example we have in the students portal (projects + tasks )
+@LT: do this with the example we have in the Student Portal (projects + tasks )
 
 
 @todo:
@@ -71,7 +71,7 @@ Time: 12min.
 
 ## JSON Server Setup - Quick Start
 
-Follow steps in the students portal.
+Follow steps in the Student Portal.
 
 <!-- Remember to fork -->
 

@@ -2,9 +2,6 @@
 
 # React - Context API
 
-<!-- status: draft -->
-
-
 <!-- 
 
 @todo: create cheatsheet
@@ -113,7 +110,7 @@ Grandchild:
 
 
 - (Preferred) Option 1 - fork from Github:
-  - Initial code: https://github.com/ironhack-rmt-resources/react-context-api-demo
+  - Initial code: https://github.com/ironhack-rmt-WD-student-materials/react-context-api-demo
     <!-- @LT: remember to fork !! -->
 
 
@@ -126,7 +123,7 @@ Grandchild:
 
 - ask students to have a look & understand the initial code
 
-- follow students portal
+- follow Student Portal
   - 2 steps: providing context + consuming
 
 - documentation:
@@ -155,7 +152,7 @@ Grandchild:
     - const result = useContext(ThemeContext)
     - `className={"ProjectCard " + result}`
   6. Add css
-    - Get the css from the students portal
+    - Get the css from the Student Portal
   7. Now, the them can change over time, we'll use state.
   8. ...
 

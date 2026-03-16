@@ -60,7 +60,7 @@ Explain: why is important to do it self-guided (since we're approaching the end 
 
 Refresh REST [10min.]
 - slides: https://docs.google.com/presentation/d/194i1dCV2vpqTN5T3yC5lysvfS-_fnEkok97QpaOtb3w/edit?usp=sharing
-<!-- note: can also this part (the unit in the students portal includes guidelines for REST) -->
+<!-- note: can also this part (the unit in the Student Portal includes guidelines for REST) -->
 
 
 Explain: how to extract routes to specific files

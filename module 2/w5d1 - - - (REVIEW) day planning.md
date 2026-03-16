@@ -100,5 +100,5 @@ PROMISES:
 
   -->
 
-- (skip) Bonus 3: check bonus labs in the students portal (week 4)
+- (skip) Bonus 3: check bonus labs in the Student Portal (week 4)
 

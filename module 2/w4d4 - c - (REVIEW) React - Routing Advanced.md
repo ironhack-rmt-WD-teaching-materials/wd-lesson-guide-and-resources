@@ -82,7 +82,7 @@ function CharacterDetails(props) {
 
 Note: 
 - lab "React Stack Tracker" includes query strings in the last bonus iteration
-- show briefly in the students portal
+- show briefly in the Student Portal
 
 For query string there's a hook `useSearchParams`:
 - https://reactrouter.com/docs/en/v6/api#usesearchparams

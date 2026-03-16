@@ -5,8 +5,6 @@
 
 <!-- 
 
-Status: draft
-
 @todo: can create a slightly more complex exercise to practice Components + props.
   - create stackblitz
   - ask students to create a child component
@@ -81,8 +79,15 @@ Bonus:
 - You can pass multiple props to the same component.
 - Also, you can experiment passing different data types (e.g. string, number, array...)
 
+Solution:
+- https://stackblitz.com/edit/vitejs-vite-qgvu3vwy?file=src%2FApp.jsx
+
+
 Time: 5min.
 
+
+
+(break)
 
 
 ## Props II (using props to make our components more reusable)
@@ -149,7 +154,7 @@ Iteration 3:
 Bonus 1: display in the Header the number of movies.
 
 Bonus 2: Keep challenging yourself further. 
-- For example, add some cool CSS & make it look good. Inspiration: https://drive.google.com/file/d/1bTCwoCxZkyJQgAaJYzONtPmbEDpMho0Z/view
+- For example, add some cool CSS & make it look good. Here's some inspiration: https://drive.google.com/file/d/1bTCwoCxZkyJQgAaJYzONtPmbEDpMho0Z/view
 - You can also display the rating as stars. Example: https://codepen.io/FredGenkin/pen/eaXYGV
 
 
@@ -160,7 +165,7 @@ Solution: https://stackblitz.com/edit/vitejs-vite-gzumrd?file=src%2FApp.jsx
 
 <!-- 
 @LT:
-- solve together (brief) 
+- solve together (brief) -- remember to fork!
 - explain how to add css (className + add rules to index.css)
 -->
 
@@ -237,7 +242,7 @@ Note: lab "React Tweets" (extra lab)
 - React Player:
   `npm install react-player`
 
-  `<ReactPlayer url="https://www.youtube.com/watch?v=EvtMTV9mMSc" playing={true} volume={0.1} />`
+  `<ReactPlayer src="https://www.youtube.com/watch?v=EvtMTV9mMSc" playing={true} volume={0.1} />`
 
 - (extra) Component Libraries
   - Show an example with one of them (e.g. "Material UI"/ "Semantic UI React" / "Ant Design")

@@ -4,7 +4,7 @@
 <!--
 
 m2-m3 swap:
-- Codealong: follow students portal
+- Codealong: follow Student Portal
 - (don't do self-guided, with the new schedule, this is the time where we build a React app with full CRUD)
 
 -->

@@ -1,5 +1,20 @@
 # Post-bootcamp suggested planning
 
+<!-- 
+
+Some things to mention:
+- week 1: holidays
+- 50% + 50%
+- Linkedin connections + Github commit history
+- Learning: TS + TS intro recording
+- Building a strong project with AI vs. Building to learn
+- remote jobs
+- doing freelance projects
+- suggested plan (see below)
+-->
+
+
+
 
 ## week 1: holidays
 

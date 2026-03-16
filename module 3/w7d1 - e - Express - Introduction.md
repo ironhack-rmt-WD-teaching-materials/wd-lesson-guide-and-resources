@@ -56,7 +56,7 @@ Codealong:
 
 Some notes below (not comprehensive)
 
-Follow students portal.
+Follow Student Portal.
 
 -->
 
@@ -187,7 +187,7 @@ Explain:
 <!-- 
 
 March25:
-- Students portal: now it uses "node --watch"
+- Student Portal: now it uses "node --watch"
 - Labs and ironlauncher: still have "nodemon" (as a dev dependency)
 
 -->
@@ -223,7 +223,7 @@ Add scripts to package.json:
 
 ## Static Files
 
-- Explain what are static files (see students portal)
+- Explain what are static files (see Student Portal)
 
 
 

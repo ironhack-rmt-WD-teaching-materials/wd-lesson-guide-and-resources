@@ -30,7 +30,7 @@ Summary:
 - Errors displayed in console
   - type of error + where
 - Execution control: Breakpoints
-- The execution control panel (see students portal)
+- The execution control panel (see Student Portal)
 - Watch
 - Call Stack
   - "internal data structure that keeps track of the active functions in a program."

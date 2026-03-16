@@ -9,7 +9,7 @@
 - I've tried to keep it generic, so that it serves for m2 + m3.
   - Video explicitly states that p2 & p3 are in pairs + asks both of them to follow the recording.
   - It also includes the concept of environment variables ("for m2, you probably don't need this concept but in m3 we'll need it")
-  - End of the video, asks to submit project URLs (showing students portal m2 & m3) 
+  - End of the video, asks to submit project URLs (showing Student Portal m2 & m3) 
 
 - Slides used in the recording: 
   - EN: https://docs.google.com/presentation/d/1tHpGGAFdEy9lKv87Qs7uzs4UfQAXGOCSHyXzHQ4RIDU/edit?usp=sharing
@@ -40,5 +40,5 @@
 - ~~Configure App name (subdomain)~~
   - update: not needed anymore (it can be done at the beginning when you create the app)
 - Fix: "page not found" (create _redirects)
-- Submit URLs in the students portal
+- Submit URLs in the Student Portal
 

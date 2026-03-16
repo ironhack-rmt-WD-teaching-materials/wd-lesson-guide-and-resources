@@ -20,14 +20,14 @@ Slides: https://docs.google.com/presentation/d/1SqJP7b9cQ9UpvTmfVpdojcFXjsTL0g1H
 
 ## (Extra) Intro to NPM [30m]
 
-- see: "Node - Introduction.md"
-- Watch: "What is npm?" (3min.)
+- (skip) see: "Node - Introduction.md"
+- (skip) Watch: "What is npm?" (3min.)
   - https://www.youtube.com/watch?v=pa4dc480Apo
 
   <!--
   @todo: 
 
-  Quick unit about NPM [30m.]
+  Create a brief self-guided unit about NPM [30m.]
   - intro to npm
   - creating an npm project
   - installing a package (e.g. cowsay)
@@ -41,8 +41,6 @@ Slides: https://docs.google.com/presentation/d/1SqJP7b9cQ9UpvTmfVpdojcFXjsTL0g1H
   - explain NPM & install one dependency
 
   -->
-
-
 
 
 Demo: cowsay:

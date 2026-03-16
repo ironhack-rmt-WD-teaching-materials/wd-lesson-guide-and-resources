@@ -55,7 +55,7 @@ Intro:
 
 ## 2. Make sure users fill in data in the valid format.
 
-See students portal (very briefly)
+See Student Portal (very briefly)
 
 <!--
 
@@ -83,11 +83,11 @@ To catch errors:
 
 ## 3. Make sure data in the database is clean - no duplicates please!
 
-See students portal (very briefly)
+See Student Portal (very briefly)
 
 
 ## 4. Make sure users use strong passwords.
 
-See students portal (very briefly)
+See Student Portal (very briefly)
 
 

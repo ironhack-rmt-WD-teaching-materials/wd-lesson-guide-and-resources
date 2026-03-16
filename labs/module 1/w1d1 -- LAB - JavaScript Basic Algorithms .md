@@ -14,7 +14,7 @@ How we work with labs in general (DO THE FIRST ITERATION & ONE COMMIT TO SHOW TH
   - Git essentials
     - add, commit, push (they're explained in the lab instructions)
   - Create PR
-  - Submit the LAB (sending the link on the students portal)
+  - Submit the LAB (sending the link on the Student Portal)
 
 
 repl.it (online editor)

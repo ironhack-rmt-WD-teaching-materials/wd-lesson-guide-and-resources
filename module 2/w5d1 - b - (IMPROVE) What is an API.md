@@ -67,10 +67,13 @@ Status: draft
       - Json Placeholder: http://jsonplaceholder.typicode.com/
     - Public APIs: 
       - https://github.com/public-apis/public-apis?tab=readme-ov-file
-    - Example:
+    - Example 1 (openbrewerydb):
       - https://www.openbrewerydb.org/
       - https://api.openbrewerydb.org/v1/breweries/
       - https://api.openbrewerydb.org/v1/breweries/5128df48-79fc-4f0f-8b52-d06be54d0cec
-
-
+    - Example 2 (thesimpsonsapi):
+      - https://thesimpsonsapi.com/
+      - https://thesimpsonsapi.com/api/characters
+      - https://thesimpsonsapi.com/api/locations
+      
 

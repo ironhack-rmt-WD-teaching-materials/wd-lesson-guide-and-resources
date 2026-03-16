@@ -16,7 +16,7 @@ status: just some notes
 - What is Prisma
 
 
-- Main elements (show in students portal)
+- Main elements (show in Student Portal)
   - Prisma Schema
   - Prisma Client
   - Prisma Migrate
@@ -27,7 +27,7 @@ status: just some notes
   https://www.youtube.com/watch?v=EEDGwLB55bI
 
 
-- Advantages of using Prisma (show in students portal)
+- Advantages of using Prisma (show in Student Portal)
   - Type-safe database access
   - Database agnostic
   - Schema migrations
@@ -38,7 +38,7 @@ status: just some notes
 
 ## Demo
 
-- Follow all the steps in the students portal
+- Follow all the steps in the Student Portal
 
   <!-- 
   

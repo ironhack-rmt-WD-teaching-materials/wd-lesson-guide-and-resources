@@ -1,6 +1,6 @@
 
 
-# JS - Arrays & Objects
+# JS - Arrays & Objects (nested data structures)
 
 <!--
 

@@ -2,9 +2,8 @@
 # JS - OOP - class and inheritance
 
 <!-- 
-  status: draft 
-  to-do: improve example
-  to-do: create slides (oop principles)
+  @to-do: improve example
+  @to-do: create slides (oop principles)
 -->
 
 

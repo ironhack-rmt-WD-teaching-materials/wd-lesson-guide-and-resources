@@ -178,7 +178,7 @@ border-radius: 12px;
 
 ## Exercise
 
-Students portal > Time to practice:
+Student Portal > Time to practice:
 > Lorem Ipsum is a website where you can generate random content [...]
 
 

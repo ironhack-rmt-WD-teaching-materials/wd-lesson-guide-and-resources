@@ -97,7 +97,7 @@
 
 
 
-## Tips:
+## Further examples and use cases
 
 - Copilot can be really good at doing things with existing libraries and apis (especially if they're popular & not very recent)
     - e.g.: `// get most popular artists from spotify api`
@@ -110,7 +110,9 @@
 
 
 
-## Other AI Coding Assistants
+## Popular AI Coding Assistants
+
+- GitHub Copilot
 
 - Cursor
     - Cursor Tutorial for Beginners: https://www.youtube.com/watch?v=ocMOZpuAMw4
@@ -120,6 +122,18 @@
 - Google Antigravity
 
 - Claude Code
+
+
+Copilot vs. Claude Code vs. Codex:
+- https://chatgpt.com/c/6988d56d-a40c-832e-a8de-41734f4b93e9
+
+
+
+A tip from Alberta Tech:
+- > If you wanna be in the top 99% early adopters, you're gonna be using dozens of useless tools to find the ones that work
+- > There's nothing wrong with being like a month behind on all these new AI coding tools 
+- https://www.youtube.com/watch?app=desktop&v=zXsuj6GFQIo
+
 
 
 
@@ -146,6 +160,21 @@ Demo:
 AI tools for Greenfield projects vs. commercial large codebases:
 - https://www.linkedin.com/posts/gergelyorosz_something-i-hear-very-little-talk-about-activity-7333488796627349505-QZnw
 
+
+
+
+## Recommendations
+
+Here's an interesting post from Addy Osmani:
+- https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7420197342873735168-xmGX/
+- Summary:
+    - 1. Specs before code (define specs before you start coding)
+    - 2. Context is king - without it, LLMs can make incorrect assumptions)
+    - 3. Manage task granularity - just like with traditional engineering, do work in well defined tasks or chunks, not all at once
+    - 4. Review and test what's important - LLMs are often an "over-confident pair programmer" 
+    - 5. Git is your save point - commit early and often. 
+    - Rely on the tools you know well, but try to make some time regularly to try out what's new.
+    - "AI tools are incredible force multipliers, but they don't replace the need for engineering fundamentals. In fact, they reward them. The human engineer remains the director of the show."
 
 
 
@@ -179,5 +208,11 @@ Is AI really making software engineers 10x more productive? (Addy Osmani)
 
 For latest updates and news on Github Copilot:
 - https://www.youtube.com/@code
+
+
+Claude Code - Every Claude Code Concept Explained for Normal People
+- https://www.youtube.com/watch?v=ZlDnsf_DOzg
+- 27:00
+- march 2026
 
 

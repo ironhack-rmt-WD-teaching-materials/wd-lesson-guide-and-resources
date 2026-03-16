@@ -21,7 +21,7 @@ SKIP this unit (go directly to Express)
 
 
 
-## Demo (follow students portal, starting from 'Node HTTP Server')
+## Demo (follow Student Portal, starting from 'Node HTTP Server')
 
 Time: [30min.]
 

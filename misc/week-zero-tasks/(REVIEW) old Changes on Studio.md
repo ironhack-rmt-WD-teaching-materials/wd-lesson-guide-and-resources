@@ -5,7 +5,7 @@
 
 ## Intro
 
-I usually apply all those changes on the students portal for all cohorts.
+I usually apply all those changes on the Student Portal for all cohorts.
 
 
 

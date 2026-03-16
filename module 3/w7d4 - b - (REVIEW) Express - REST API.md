@@ -114,7 +114,7 @@ Fix: ironlauncher not installing dependencies
 
 
 - Explain goals & endpoints
-  (see table with endpoints in the students portal)
+  (see table with endpoints in the Student Portal)
 
 
 - Plan together
@@ -144,10 +144,10 @@ Routes (implement each one + TEST WITH POSTMAN):
 
 - Each route: implement + TEST WITH POSTMAN
 - 1, 2, 3: 
-  - copy code from students portal
+  - copy code from Student Portal
   - read together + test
 - 4, 5, 6: 
-  - copy code from students portal
+  - copy code from Student Portal
   - ask students to read & understand code + test
   - time: 15min.
 
@@ -201,7 +201,7 @@ Some options for extra challenges (they're not exclusive, can be combined):
   - how would you build it (component structure etc)?
 
 - Bonus 3: build a React app to interact with this API
-  - it is the next lesson in the students portal but some advanced students may want to start building it.
+  - it is the next lesson in the Student Portal but some advanced students may want to start building it.
   - main thing to keep in mind is that you will need to enable CORS requests on the API
 we will explain what is CORS and all those details a bit later but the code to do that is in "React | Building the Rest API" > "Enable CORS requests"
 

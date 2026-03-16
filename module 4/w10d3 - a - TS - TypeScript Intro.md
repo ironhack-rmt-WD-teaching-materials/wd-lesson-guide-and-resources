@@ -3,7 +3,7 @@
 
 <!-- 
 
-methodology: follow the students portal
+methodology: follow the Student Portal
 
 -->
 

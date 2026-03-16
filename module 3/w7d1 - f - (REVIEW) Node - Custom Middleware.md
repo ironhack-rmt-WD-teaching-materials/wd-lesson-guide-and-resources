@@ -7,7 +7,7 @@
 
 <!--
 @students: 
-- students portal includes a very detailed explanation, they may find it useful (login process, sessions, etc)
+- Student Portal includes a very detailed explanation, they may find it useful (login process, sessions, etc)
 -->
 
 

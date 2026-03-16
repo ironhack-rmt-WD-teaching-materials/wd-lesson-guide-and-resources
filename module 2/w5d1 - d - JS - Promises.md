@@ -312,6 +312,12 @@ getUsersFromDB()
 
 - improve this example (use a different API - can also create and deploy a small api for it)
 
+- Example:
+    - https://thesimpsonsapi.com/
+    - characters: "https://thesimpsonsapi.com/api/characters",
+    - episodes: "https://thesimpsonsapi.com/api/episodes",
+    - locations: "https://thesimpsonsapi.com/api/locations"
+
 -->
 
 Initial code: https://stackblitz.com/edit/js-bznxzw?file=index.js

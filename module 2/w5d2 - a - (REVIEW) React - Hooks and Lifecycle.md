@@ -253,7 +253,7 @@ Step 3:
 
 ## Component Lifecycle
 
-<!-- students portal (highlighted)  -->
+<!-- Student Portal (highlighted)  -->
 
 
 <!--

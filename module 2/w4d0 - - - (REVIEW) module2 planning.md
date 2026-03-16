@@ -38,5 +38,5 @@ day6: Hooks & Lifecycle
 
 
 day7: Integrating React app with backend
-- codealong: follow students portal.
+- codealong: follow Student Portal.
 

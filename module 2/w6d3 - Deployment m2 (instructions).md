@@ -25,7 +25,7 @@
 
 📮 Submit project urls:
 
-- As soon as you finish deployment, make sure both of you submit URLs in the students portal.
+- As soon as you finish deployment, make sure both of you submit URLs in the Student Portal.
 - Screenshot: https://drive.google.com/file/d/1DbOuV-w94tZqaKNWPlnx873xnf_hrsib/view?usp=sharing
 - DEADLINE: today, 5pm
 
@@ -49,7 +49,7 @@
 
 📮 Enviar las URLs del proyecto:
 
-- Tan pronto como hayas finalizado el despliegue de la app, enviad las URLs en el students portal (para proyectos en parejas, ambos debéis enviar las urls)
+- Tan pronto como hayas finalizado el despliegue de la app, enviad las URLs en el Student Portal (para proyectos en parejas, ambos debéis enviar las urls)
 
 - Captura: https://drive.google.com/file/d/1DbOuV-w94tZqaKNWPlnx873xnf_hrsib/view?usp=sharing
 

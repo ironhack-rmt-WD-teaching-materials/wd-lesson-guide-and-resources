@@ -3,9 +3,6 @@
 
 <!--- 
 
-Status: draft 
-
-
 @todo:
 - to do some cleanup & improve structure
 
@@ -60,7 +57,7 @@ Status: draft
   Solution 2 (with a timeout): 
   - https://stackblitz.com/edit/js-vhkxbm?file=index.js
 
-  Bonus 2 (recursion):
+  Solution for Bonus 2 (using a recursive function):
   - https://stackblitz.com/edit/js-nbe32j?file=index.js
 
 

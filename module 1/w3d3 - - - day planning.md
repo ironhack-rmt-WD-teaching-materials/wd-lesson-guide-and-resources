@@ -39,7 +39,7 @@
   - Option B (English): https://www.loom.com/share/a183261549334d4aad2c916c54c266e0?sid=434fba10-37d3-49a9-9701-fcd67ae55b61
 
 
-- Once you finish deployment, submit your project URLs in the students portal.
+- Once you finish deployment, submit your project URLs in the Student Portal.
   - DEADLINE to submit project urls: today 13:00h.
 
 - Note: 
@@ -69,7 +69,7 @@ How to submit project URLs:
 <!-- IMPORTANT -->
 <!-- IMPORTANT -->
 <!-- IMPORTANT -->
-- Ask students to submit urls (repo + github pages) on students portal
+- Ask students to submit urls (repo + github pages) on Student Portal
   - (Set DEADLINE)
 <!-- IMPORTANT -->
 <!-- IMPORTANT -->

@@ -8,11 +8,11 @@ Slides (draft):
 
 
 Backend Repo: 
-<!-- alternative: fork repo from the students portal + check code from prev. cohort -->
+<!-- alternative: fork repo from the Student Portal + check code from prev. cohort -->
 - https://github.com/ironhack-demos/demo-deployment-project-3-backend
 
 Frontend Repo: 
-<!-- alternative: fork repo from the students portal + check code from prev. cohort -->
+<!-- alternative: fork repo from the Student Portal + check code from prev. cohort -->
 - https://github.com/ironhack-demos/demo-deployment-project-3-frontend
 
 
@@ -51,7 +51,7 @@ Frontend Repo:
 
 
 ## Paso 6:
-- Submit URLs in the students portal
+- Submit URLs in the Student Portal
 - Screenshot: https://drive.google.com/file/d/1un8OZoDSpSr33VmqziNPOJT8qGVpAwch/view?usp=sharing
 - Deadline: today, 5pm
 

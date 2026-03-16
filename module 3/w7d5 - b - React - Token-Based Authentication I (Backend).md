@@ -16,7 +16,7 @@ PR JWT middleware simplified:
 
 
 Update (May 2024):
-- PR already applied to Students Portal + repo with the final code
+- PR already applied to Student Portal + repo with the final code
 - Ironlauncher: not yet
 
 -->
@@ -46,7 +46,7 @@ Roadmap:
 
 ## Initial setup ("Getting Started")
 
-Follow steps in the students portal but remember to fork:
+Follow steps in the Student Portal but remember to fork:
 - fork + rename (`!!`)
   <!-- 
     @LT: REMEMBER TO FORK!! ⚠️
@@ -71,7 +71,7 @@ Quick test with Postman
 
 <!-- @LT: use code as it is  (do not change anything) -->
 
-Follow code from the students portal.
+Follow code from the Student Portal.
 
 
 
@@ -166,7 +166,7 @@ Code summary:
 
 ## Create middleware for auth ("JWT Validation Middleware")
 
-Follow code from the students portal (file: `middleware/jwt.middleware.js`)
+Follow code from the Student Portal (file: `middleware/jwt.middleware.js`)
 
 - ![diagram middleware](../media/images/express-middleware.png)
 

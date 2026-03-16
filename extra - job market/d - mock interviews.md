@@ -144,7 +144,7 @@ Takeaways:
 
 -->
 
-Instructions: https://github.com/ironhack-rmt-materials/technical-interview-react-ii
+Instructions: https://github.com/ironhack-rmt-WD-teaching-materials/technical-interview-react-ii
 
 
 Update:
@@ -157,7 +157,7 @@ Update:
 
 ## Alternative React Interview
 
-- Initial code: https://github.com/ironhack-rmt-materials/technical-interview-react
+- Initial code: https://github.com/ironhack-rmt-WD-teaching-materials/technical-interview-react
 - Demo: https://technical-interview-react-demo.netlify.app/
 
 Q:

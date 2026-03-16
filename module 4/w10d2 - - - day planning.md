@@ -27,7 +27,7 @@ Create an API with Prisma and deploy it on Supabase:
 <!-- 
 
 IMPORTANT: for connection type, choose session
-(it is mentioned in the students portal but 2/6 students missed that part)
+(it is mentioned in the Student Portal but 2/6 students missed that part)
 -->
 
 

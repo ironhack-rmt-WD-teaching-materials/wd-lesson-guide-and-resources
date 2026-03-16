@@ -6,8 +6,10 @@
 
 
 Codealong (continue):
-- demo / final result: https://ironhack-rmt-materials.github.io/html-css-intro-codealong/
-- repo: https://github.com/ironhack-rmt-materials/html-css-intro-codealong
+- demo / final result: https://ironhack-rmt-WD-teaching-materials.github.io/html-css-intro-codealong/
+- repo: https://github.com/ironhack-rmt-WD-teaching-materials/html-css-intro-codealong
+
+
 
 
 

@@ -5,7 +5,7 @@
 <!--
 
 Codealong Final Result (README.md includes all the steps):
-- https://github.com/ironhack-rmt-resources/library-project-crud-codealong
+- https://github.com/ironhack-rmt-WD-student-materials/library-project-crud-codealong
 
 
 

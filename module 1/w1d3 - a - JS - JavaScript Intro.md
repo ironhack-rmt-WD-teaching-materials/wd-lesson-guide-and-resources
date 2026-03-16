@@ -4,8 +4,6 @@
 
 <!--- 
 
-Status: draft 
-
 @todo: 
 - improve notes & examples
 - add mini-exercise

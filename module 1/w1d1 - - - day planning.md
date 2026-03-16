@@ -24,10 +24,7 @@ IMPORTANT:
 
 @todo:
 - update gist with guidelines to submit labs (fork, clone, PR, etc)
-- improve demo/codealong (make it more interesting)
-- improve CSS
-  - color palette
-  - fonts +++
+
 
 @consider: "Mini-Project: Static Site"
 - w1d1 + w1d2: instead of labs, work on a mini-project (HTML+CSS static site).
@@ -45,6 +42,27 @@ IMPORTANT:
  -->
 
 
+<!--
+
+Summary of w1d1 (ES):
+[ ] Introducción al curso (PMs)
+[ ] Bootcamp intro
+[ ] Cómo funciona la web + Dev tools
+[ ] Project setup + HTML
+    - algunas ideas básicas para crear un proyecto, linea de comandos, etc.
+    - intro a html
+    - algunos trucos y atajos de teclado
+[ ] CSS
+    - cómo añadir css
+    - type selectors (e.g. `p`) id selector (e.g. `#banner`), class selector (e.g. `.box`)
+    - cómo decide el navegador qué reglas se aplican ("cascade", "specificity")
+[ ] Git, Github, cómo trabajar en los labs
+
+
+
+-->
+
+
 
 ## Intro from PMs [30m]
 
@@ -58,6 +76,8 @@ IMPORTANT:
 
 
 ## Check English level
+
+Note: in English courses, skip this section.
 
 <!-- Note: this is also in the slides "Bootcamp Intro", on Day 1 -->
 
@@ -98,7 +118,7 @@ IMPORTANT:
   -->
 
 
-## Intro Students Portal
+## Intro Student Portal
 
     Notes: 
     - We will use it as a guideline 
@@ -120,8 +140,6 @@ Notes:
 - Opportunity to speak about good practices & common mistakes
 
 
-## Pair programming [10m]
-
 
 ## Git intro (30min. - ideally 1h)  [1h]
 
@@ -135,6 +153,9 @@ Notes:
 - git diagram: https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png
 
 <!-- @todo: prepare slides git  -->
+
+
+## Pair programming [10m]
 
 
 ## LAB Kick-off

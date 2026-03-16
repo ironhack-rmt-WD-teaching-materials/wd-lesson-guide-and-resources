@@ -30,15 +30,20 @@
 
 - [LESSON] Codealong "popcorn-time I" [2h]
 
-<!-- 
 
-Note:
-- consider introducing React callbacks today
-- Example: https://stackblitz.com/edit/react-ts-ncjzuqyx?file=components%2FParent.jsx
-- Note: this can also be done as a self-guided activity (or research)
--->
+- Introduce React callbacks [20min.]
+  - Example: 
+    - Initial code: https://stackblitz.com/edit/react-ts-5b19i5vl?file=components%2FParent.jsx
+    - Final code: https://stackblitz.com/edit/react-ts-ncjzuqyx?file=components%2FParent.jsx
+  <!-- 
+  Notes:
+  - This will be useful for today's mini-project (plus, it helps students to start getting familiar with React callbacks)
+  - It could also be done as a self-guided activity (or research)
+  -->
 
-- (optional) End-of-day summary [10m]
+
+- (skip) End-of-day summary [10m]
+
 
 
 

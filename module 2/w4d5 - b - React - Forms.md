@@ -188,7 +188,7 @@ Note 2:
 - <textarea>
 - ...
 
-> Google / React docs / Students portal
+> Google / React docs / Student Portal
 
 
 

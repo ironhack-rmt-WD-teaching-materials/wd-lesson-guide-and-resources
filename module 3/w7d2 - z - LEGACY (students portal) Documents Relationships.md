@@ -5,7 +5,7 @@
 <!--
 
 
-- STUDENTS PORTAL: this doc. is ready and marks the steps to follow (code in students portal)
+- STUDENTS PORTAL: this doc. is ready and marks the steps to follow (code in Student Portal)
 
 - ALTERNATIVE: books-authors. See "./w5d2 - a - ALTERNATIVE Codealong.md"
 
@@ -100,7 +100,7 @@ $ node bin/seeds.js
 - Route to process POST request
   - Post.create()
   - We also need to update the User model (add the new post to the array)
-    -- (see students portal)
+    -- (see Student Portal)
 
 
 ## Implement: functionality to display list of posts
@@ -169,7 +169,7 @@ $ node bin/seeds.js
   - Route (POST `/posts/:postId/comment`)
 
 
-- Code (slightly different than in students portal):
+- Code (slightly different than in Student Portal):
   https://github.com/Ironhack-Team-Triangle-July2021/lesson-crud-with-populate/commits/master
   (see commit 3ed7640 + fix in the next commit)
 

@@ -65,7 +65,7 @@ Consider:
 
 <!-- @todo:
 
-check if the latest videos are a better option (supports auto-dub)
+check if the latest videos from Codevolution are a better option (supports auto-dub)
   - e.g.: https://www.youtube.com/watch?v=H6QAY_VqvUc
 -->
 

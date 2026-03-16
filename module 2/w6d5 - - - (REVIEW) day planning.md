@@ -7,7 +7,7 @@
 
 
 - First thing in the morning: 
-  - ask students to submit urls in the students portal (repo + github pages)
+  - ask students to submit urls in the Student Portal (repo + github pages)
 
 
 <!-- 

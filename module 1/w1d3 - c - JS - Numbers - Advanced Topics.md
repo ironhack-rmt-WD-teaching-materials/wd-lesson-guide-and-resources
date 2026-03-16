@@ -9,7 +9,7 @@ Self-guided (25-40min.)
 
 
 Your task:
-- Go through the contents in the students portal: "JS | Numbers - Advanced Topics"
+- Go through the contents in the Student Portal: "JS | Numbers - Advanced Topics"
 
 Recommendation:
 - open an editor & type as you go.

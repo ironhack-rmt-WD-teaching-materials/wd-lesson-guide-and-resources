@@ -8,8 +8,8 @@ React Router Version History (dates on the left):
 - https://github.com/remix-run/react-router/releases
 
 Latest cohorts:
-- Sep. 2025: v.7.9 (all working well) 
-- Dec. 2025: v.7.10
+- Dec. 2025: v.7.10 (all working well) 
+- Mar. 2026: v.7.13.1 
 
 -->
 

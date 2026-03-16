@@ -44,7 +44,7 @@ Explain:
 ## Demo
 
 Follow/continue steps here (see "Events"):
-- https://github.com/ironhack-rmt-resources/dom-manipulation-practice/blob/codealong-solution/js/main.js
+- https://github.com/ironhack-rmt-WD-student-materials/dom-manipulation-practice/blob/codealong-solution/js/main.js
 
 
 Note:

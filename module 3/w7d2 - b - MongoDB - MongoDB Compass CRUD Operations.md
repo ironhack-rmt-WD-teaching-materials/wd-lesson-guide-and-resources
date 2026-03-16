@@ -3,8 +3,6 @@
 
 <!-- 
 
-- Status: draft 
-
 - Methodology: for all the part of operators, rather than explaining one by one
   - explain only the basic concepts (e.g. projection)
 

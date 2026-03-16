@@ -4,7 +4,7 @@
 <!-- 
 
 methodology: 
-- follow the students portal
+- follow the Student Portal
 - encourage students to codealong
 
 -->

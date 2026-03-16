@@ -15,7 +15,7 @@ Methodology:
 
 
 Codealong Final Result (README.md includes all the steps):
-- https://github.com/ironhack-rmt-resources/library-project-crud-codealong
+- https://github.com/ironhack-rmt-WD-student-materials/library-project-crud-codealong
 
 -->
 
@@ -46,7 +46,7 @@ Codealong Final Result (README.md includes all the steps):
 
   @LT:
   - provide code for the view
-  - example: https://github.com/ironhack-rmt-resources/library-project-crud-codealong/blob/29c1ef3bf7bcadb272c95ba644d4695d2ea68b5a/views/books/books-list.hbs
+  - example: https://github.com/ironhack-rmt-WD-student-materials/library-project-crud-codealong/blob/29c1ef3bf7bcadb272c95ba644d4695d2ea68b5a/views/books/books-list.hbs
 
   -->
 
@@ -109,7 +109,7 @@ Render Form:
 - view: `books/book-create`
 
 
-Example view file (with form): https://github.com/ironhack-rmt-resources/library-project-crud-codealong/blob/main/views/books/book-create.hbs
+Example view file (with form): https://github.com/ironhack-rmt-WD-student-materials/library-project-crud-codealong/blob/main/views/books/book-create.hbs
 
 
 
@@ -119,6 +119,6 @@ Process Form:
 - view: we will not create a view. Instead, once book is created, Redirect: `res.redirect('/books')`
 
 
-Example code: https://github.com/ironhack-rmt-resources/library-project-crud-codealong/commit/ae585b4caaf252489fb8cf542cc2e3ee392ae868#diff-4ca9a80832fef4cd47b8081486835d02a7e17e0c0cbdbf7c12a3d6933a986466
+Example code: https://github.com/ironhack-rmt-WD-student-materials/library-project-crud-codealong/commit/ae585b4caaf252489fb8cf542cc2e3ee392ae868#diff-4ca9a80832fef4cd47b8081486835d02a7e17e0c0cbdbf7c12a3d6933a986466
 
 

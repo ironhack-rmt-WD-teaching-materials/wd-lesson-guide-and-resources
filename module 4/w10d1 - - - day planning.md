@@ -37,7 +37,7 @@ status: ready
 
 - LAB | PostgreSQL Joins
 
-- Bonus: in the students portal (w10d1), you'll find further extra materials
+- Bonus: in the Student Portal (w10d1), you'll find further extra materials
 
 
 

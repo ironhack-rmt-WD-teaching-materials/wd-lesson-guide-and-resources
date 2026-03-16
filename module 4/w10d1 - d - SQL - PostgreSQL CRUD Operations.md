@@ -47,7 +47,7 @@ Follow this cheat-sheet:
 
 1. Demo: "Create" + "Read" + "Update" + "Delete"
     - Create a table "products" and do a demo on that table.
-    - Do a demo for each of them (follow students portal)
+    - Do a demo for each of them (follow Student Portal)
 
     <!-- 
 
@@ -69,7 +69,7 @@ Follow this cheat-sheet:
 2. Run this statements to create some tables and initial data:
     - https://gist.github.com/luisjunco/a3c7dc8a8a8c3468bd387e4f3acbd107
 
-3. Follow these sections in the students portal & practice those commands in your new database:
+3. Follow these sections in the Student Portal & practice those commands in your new database:
     - CRUD Operations (refresh & practice)
     - Logical Operators
     - Comparison Operators

@@ -11,10 +11,6 @@ Status: draft
 --->
 
 
-Notes:
-- in current version of the prework (jun2022)
-
-
 Before git topics:
 - how to open a terminal in VS Code
 - common operations in the cli

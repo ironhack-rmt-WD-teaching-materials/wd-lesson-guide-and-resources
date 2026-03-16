@@ -5,13 +5,8 @@
 
 <!-- 
 
-status: draft 
-
-
 Methodology:
 - self-guided 
-
-
 
 -->
 
@@ -27,16 +22,16 @@ New topics introduced in this unit:
     - backend / server / express app
 
 - (context API)
-  <!-- - see code in the students portal -->
+  <!-- - see code in the Student Portal -->
 - local storage for the token
   <!-- 
     - see MDN + make quick demo on the dev tools console
     - mention: localStorage operates under the same-origin policy (protocol, port, domain)
   -->
 - send token in headers of http request with axios ("Set Request Headers")
-  <!-- - see code in the students portal -->
+  <!-- - see code in the Student Portal -->
 - Private Pages ("Private Pages")
-  <!-- - see code in the students portal -->
+  <!-- - see code in the Student Portal -->
 
 
 Diagram jwt: https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/m3/token-auth/jwt-authentication-flow-1.png
@@ -50,7 +45,7 @@ Sections in the student portal:
   - Create the Signup Page (component with form, w/o sending request)
   - Send a Sign Up Request
     > NOTE: if axios request fails, error message is available in `error.response.data.message`
-    > NOTE 2: make sure we're consistent when we send errors from the API (in the students portal we have the property "message" + ironlauncher sends them in the property "errorMessage")
+    > NOTE 2: make sure we're consistent when we send errors from the API (in the Student Portal we have the property "message" + ironlauncher sends them in the property "errorMessage")
   - Render the SignupPage Component
 - Login Page
   - Create the Login Page

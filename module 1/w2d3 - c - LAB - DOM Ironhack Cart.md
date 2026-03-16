@@ -30,9 +30,9 @@ Things they will need:
 
 - iterate through a collection of dom elements
   - note: it can be a "NodeList" or an "HTML Collection"
-  - research or check students portal to know how to iterate on each case.
+  - research or check Student Portal to know how to iterate on each case.
 
-- other things they may need (research or check students portal):
+- other things they may need (research or check Student Portal):
   - remove dom elements
   - add dom elements
 

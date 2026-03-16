@@ -57,8 +57,9 @@ Estado:
 Option 1: 
 - work on the app we built yesterday
 
-Option 2 (preferred, since its easier to share the code): 
+Option 2 (preferred): 
 - work here: https://stackblitz.com/edit/react-s2s6wx?file=src%2FApp.js
+  <!-- @LT: use this option (since easier to share the code with an isolated example of state) -->
 
   <!-- remember to FORK -->
   <!-- remember to FORK -->
@@ -195,6 +196,6 @@ Why should I use a function if the new state depends on the previous? Example: h
 
 ## State vs. Props
 
-- See students portal
+- See Student Portal
 
 

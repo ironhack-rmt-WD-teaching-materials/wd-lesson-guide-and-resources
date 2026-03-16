@@ -38,7 +38,7 @@
 
 - We know that we can store a function in a variable
 
-- Example (calc Multiplication):
+- Example:
 
     ```js
     const calcMult = function(x, y) {

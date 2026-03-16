@@ -57,7 +57,7 @@
 
 -->
 
-- follow steps in students portal (section "Install Jasmine"):
+- follow steps in Student Portal (section "Install Jasmine"):
     - visit: https://github.com/jasmine/jasmine/releases
     - download the latest standalone version (`jasmine-standalone-x.y.z.zip`)
     - directory: "w1d5 - tdd-demo"
@@ -91,16 +91,21 @@
 
     ```js        
     describe("function centsToDecimals", function(){
-        it("Should convert value from cents to floating point number with 2 decimals", function(){
-
+        it("Should be defined", function(){
+            expect(centsToDecimals).toBeDefined();
         });
+
+        // ...
     });
     ```
 
-- Add expectations (a test can contain one or multiple expectations)
+- Add more tests/expectations (a test can contain one or multiple expectations)
 
     ```js        
     describe("function centsToDecimals", function(){
+
+        // ...
+
         it("Should convert value from cents to floating point number with 2 decimals", function(){
             expect(centsToDecimals(105)).toBe(1.05);
             expect(centsToDecimals(400)).toBe(4.00);
@@ -133,7 +138,7 @@
     ```
 
 
-- Explain: matchers (see students portal)
+- Explain: matchers (see Student Portal)
     - Some examples:
         - expect(xxx).toBe()    - strict equality, compares if two values are exactly the same
         - expect(xxx).toEqual() - deep equality, can be used to compare objects and arrays

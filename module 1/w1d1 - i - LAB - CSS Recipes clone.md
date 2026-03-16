@@ -48,7 +48,7 @@ Main title alignment
   - Git essentials
     - add, commit, push (they're explained in the lab instructions)
   - Create PR
-  - Submit the LAB (sending the link on the students portal)
+  - Submit the LAB (sending the link on the Student Portal)
     - Submit by 9am 
 
 
@@ -58,7 +58,7 @@ Main title alignment
 - General guidelines for labs/assignments (it's also in the prework)
   https://gist.github.com/ironhack-edu/dd3635de73a6ef07ef337bf184eda985
 
-- Remind students to submit on Students Portal.
+- Remind students to submit on Student Portal.
 
 
 

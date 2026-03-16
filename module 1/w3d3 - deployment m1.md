@@ -151,7 +151,7 @@ Common pain points & bug fixing:
   
   - Link to production: now you have a link public on the internet (so that anyone can test your game)
 
-  <!-- Submit URLs in the students portal -->
+  <!-- Submit URLs in the Student Portal -->
 
   - Continuous deployment
     - You can continue working on your game as usual
@@ -164,7 +164,7 @@ Common pain points & bug fixing:
 <!-- IMPORTANT -->
 <!-- IMPORTANT -->
 <!-- IMPORTANT -->
-- Ask students to submit urls (repo + github pages) on students portal
+- Ask students to submit urls (repo + github pages) on Student Portal
   - (Set DEADLINE)
 <!-- IMPORTANT -->
 <!-- IMPORTANT -->

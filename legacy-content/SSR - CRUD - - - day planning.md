@@ -6,7 +6,7 @@
 Methodology:
 - Codealong for a library app
 - This project can be expanded in the following days.
-- Sample repo: https://github.com/ironhack-rmt-resources/library-project-crud-codealong
+- Sample repo: https://github.com/ironhack-rmt-WD-student-materials/library-project-crud-codealong
 
 
 IMPORTANT:
@@ -49,7 +49,7 @@ Monday!
 ## Codealong:
 
 - IMPORTANT: 
-  - Follow the same example ("library") & the same model as students portal  
+  - Follow the same example ("library") & the same model as Student Portal  
     - So that we can use seed file later.
     - We will use this code for all lessons today (and can be expanded tomorrow)
 

@@ -26,7 +26,7 @@ Status: ready
 
 
 - Example: today's lab (IronContacts): 
-  - https://camo.githubusercontent.com/f2422eb39d252c499353546e72f0927f7f0dae1dc034f474b135d09f1ead4718/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d646f6d2d69726f6e636f6e74616374732f30352d6c61622d646f6d2d697465726174696f6e2d342e676966
+  - https://camo.githubusercontent.com/8b42d24c2521fbf04e33b6fe4c207e9cc11b53490c7bbe6d266d5aa40fe2e227/68747470733a2f2f656475636174696f6e2d7465616d2d323032302e73332e65752d776573742d312e616d617a6f6e6177732e636f6d2f7765622d6465762f6c6162732f6c61622d646f6d2d69726f6e636f6e74616374732f30302d6c61622d646f6d2d69726f6e636f6e74616374732d696e74726f2e676966
 
 
 
@@ -56,7 +56,7 @@ Status: ready
 
 
 Initial Code:
-- https://github.com/ironhack-rmt-resources/dom-manipulation-practice
+- https://github.com/ironhack-rmt-WD-student-materials/dom-manipulation-practice
 - Fork + clone + open in VS Code.
 
 
@@ -64,7 +64,8 @@ Initial Code:
 ## Demo
 
 Follow steps here:
-- https://github.com/ironhack-rmt-resources/dom-manipulation-practice/blob/codealong-solution/js/main.js
+- https://github.com/ironhack-rmt-WD-student-materials/dom-manipulation-practice/blob/codealong-solution/js/main.js
+<!-- @LT: or, follow the code from prev cohort -->
 <!-- @LT: open a live session on VS Code -->
 
 Note:

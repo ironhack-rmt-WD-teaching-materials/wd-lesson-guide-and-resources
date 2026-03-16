@@ -12,6 +12,7 @@ Some project-1 examples:
 - Guess game: https://codingeinhorndeu.github.io/guess-game/
 - Sticky Bullets: https://valentin-paul.github.io/Game-Javascript/
 - Air hockey Arcade Game: https://jihansh.github.io/Arcade-Game-proj1/game.html
+- Steelwatch: https://cesardevtools.github.io/SteelWatch/
 - Survivor Game: https://jogopin.github.io/Survivor-game/
  -->
 
@@ -24,10 +25,6 @@ Action games:
 
 - Opposia (Sevda)
   https://sevdakahraman.github.io/opposia_game/
-
-- Bat Game (Maya)
-  https://mayakilbertus.github.io/project-bat-game/
-
 
 - DBugger Game (Cristina):
   https://cramosp.github.io/dbugger-game/
@@ -50,6 +47,11 @@ Action games:
 - Snek (Dominika)
   https://dominikalipka.github.io/javascript-game-project/game-window/index.html
 
+
+- Snake (Enrique)
+  https://superquique.github.io/snake-project/
+
+
 - Brick Breaker
   https://huguiz.github.io/Brick-Breaker/
 
@@ -62,6 +64,10 @@ Action games:
   - https://avalenciacs.github.io/mallorca-dom-adventure/
   - The animation in the start screen is pretty cool, he generated first the static image with nano banana and, from there, generated the video, iterating a few times
     - summary: https://drive.google.com/file/d/1Q_AQQz_FTPs12CiiCP1aHdNs14-5B7k4/view?usp=drive_link
+
+
+- Steelwatch (Cesar):
+  https://cesardevtools.github.io/SteelWatch/
 
 
 Non-action games:

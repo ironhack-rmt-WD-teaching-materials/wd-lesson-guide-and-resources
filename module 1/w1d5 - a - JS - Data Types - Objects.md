@@ -2,11 +2,6 @@
 
 # JS - Data Types in JavaScript - Objects
 
-<!--- 
-Status: draft
-
--->
-
 
 
 ## Intro:
