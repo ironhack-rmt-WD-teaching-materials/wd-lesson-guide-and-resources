@@ -165,6 +165,21 @@ AI tools for Greenfield projects vs. commercial large codebases:
 
 ## Recommendations
 
+Here's a video with very useful tips from TheCodingSloth:
+- https://www.youtube.com/watch?v=91B_v-wOaws
+- Tips:
+    - Learn how to program first
+    - Be specific
+    - Smaller tasks give better results (break down the problem in smaller tasks)
+    - Do not let AI do all the thinking for you
+    - Tell AI what you "don't" want
+    - Tell AI to remember (generate an agents.md file / similar files depending on the tool)
+    - MCPs can be very useful
+    - Give AI a way to verify its work (e.g. unit tests)
+    - Final thought: AI amplifies developers with good habits
+    - Note: the video is full of sponsorship to a very specific tool (junie) but, despite that being very annoying, all the tips and recommendations are top quality.
+
+
 Here's an interesting post from Addy Osmani:
 - https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7420197342873735168-xmGX/
 - Summary:
