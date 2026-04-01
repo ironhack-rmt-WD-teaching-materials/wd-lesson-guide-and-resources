@@ -63,3 +63,36 @@ Demo: cowsay:
 - fix: "cannot use import statement outside a module"
   - package.json:
     - add `"type": "module",`
+
+
+
+## IMPORTANT: recommendations to prevents attacks from npm packages (supply chain attacks)
+
+
+1. Run this command to disable lifecycle scripts:
+  - `npm config set ignore-scripts true`
+  
+2. Consider pinning to exact versions in package.json (e.g., use `1.4.0` instead of `^1.4.0`)
+
+
+Note: since npm v.11, there's also a new configuration `min-release-age` that allows you delay installs of newly published versions (this would give time for the community to spot malicious releases):
+- https://docs.npmjs.com/cli/v11/using-npm/config#min-release-age
+- It's relatively recent, I've tried and, at least for me, it didn't work.
+
+
+<!--
+
+Example of these types of hacks:
+
+- Axios just got pwnd:
+  - https://www.youtube.com/watch?v=5xWSezMFweE
+
+- Me hackearon (midudev, Spanish):
+  - https://www.youtube.com/watch?v=ikdCG4goKIE 
+
+In both cases, disabling lifecycle scripts would have prevented the problem.
+
+-->
+
+
+
