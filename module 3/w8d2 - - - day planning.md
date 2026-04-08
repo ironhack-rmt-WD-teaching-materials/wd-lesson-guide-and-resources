@@ -8,7 +8,7 @@
 
 - running 2 apps in development (e.g. 2 vs code windows + their own terminals)
 
-- Demo: AI-powered apps [1h]
+- Demo: AI-powered apps [2h]
   - see `w8d2 - a - AI-powered apps.md`
 
 - ironlauncher --auth --json [1h]
