@@ -25,3 +25,32 @@ Some extra notes on security:
 
 
 
+## (Bonus) Implement AI image generation
+
+Can be implemented with a coding agent. Example prompt:
+
+   ```
+   Implement functionality so that users can generate images with AI when they create a new recipe.
+   Follow the same patterns as the existing "Generate Instructions with AI" feature.
+
+   ## Requirements
+   - Add a "Generate Image with AI" button to the new recipe form
+   - On click: send a request to the backend to generate an image with AI and display a loading state.
+   - When the image is ready, show a preview
+   - The user can review the preview before submitting the form
+
+   ## Reference implementation
+   Mirror the existing "Generate Instructions with AI" feature:
+   - Same trigger pattern (button click → loading state → result preview)
+   - Same error handling and UX conventions
+   ```
+
+
+Example: 
+- https://github.com/ironhack-feb2026-undefinedSquad/w8d2-demo-ai-powered-apps/commit/39891ff01859b85ff97f821b0cbdc7d1a2d3cb01
+- Notes: 
+   - the prompt can be improved to prevent prompt injection (as it is, that endpoint could be used to generate other types of images)
+   - for this implementation, need to update the .env file, adding an api key for OpenAI (`OPENAI_API_KEY`)
+
+
+
