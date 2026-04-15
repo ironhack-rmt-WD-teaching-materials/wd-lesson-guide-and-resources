@@ -7,41 +7,52 @@ Slides (draft):
 - https://docs.google.com/presentation/d/19VRo2Bjae3q8b5wNCMKpEG-DrlDN_4Z3-XdHcP4CHZo/edit?usp=sharing
 
 
-Option 1 (preferred):
-- Backend Repo: 
-    <!-- alternative: fork repo from the Student Portal + check code from prev. cohort -->
-    - https://github.com/ironhack-demos/demo-deployment-project-3-backend
-- Frontend Repo: 
-    <!-- alternative: fork repo from the Student Portal + check code from prev. cohort -->
-    - https://github.com/ironhack-demos/demo-deployment-project-3-frontend
+Backend Repo: 
+<!-- alternative: fork repo from the Student Portal + check code from prev. cohort -->
+- https://github.com/ironhack-demos/demo-deployment-project-3-backend
 
-Option 2:
-- Do the demo with an app we've built in class (e.g. "w8d2-demo-ai-powered-apps")
+Frontend Repo: 
+<!-- alternative: fork repo from the Student Portal + check code from prev. cohort -->
+- https://github.com/ironhack-demos/demo-deployment-project-3-frontend
+
+
+
+<!-- 
+IH credentials for Vercel: 
+- login with "lj+ironhack-class-codealongs@ih.com"
+- will send a verification email
+-->
 
 
 
 ---
 
 
-## Step 0:
+<!-- @LT: before we start, share this roadmap with the students -->
+
+
+## Step 0 - Prepare the frontend for deployment
+
+- (optional) git stash
 - In the Frontend: make sure to use environment variables for the API URL
 
 
-## Step 1 - BD
+## Step 1 - DB
 - Deploy the Database in MongoDB Atlas
 
 
 ## Step 2 - Backend
+
 - Deploy the Backend in Vercel
-    - Important: for the environment variable with the location of the database, avoid the slash at the end of the url (ie. avoid the "trailing slash")
+
+- Important: for the environment variable with the location of the database, avoid the slash at the end of the url (ie. avoid the "trailing slash")
+
+- Notes: 
+    - At this point, sometimes you may get an error connecting to the DB (e.g. `users.findOne() buffering timed out after 10000ms`)
+    - We'll fix that in the next step
 
 
-## Step 3 - Frontend
-- Deploy the Frontend in Vercel
-- note: mention the possibility of buying a domain to make it look better in their portfolio.
-
-
-## Step 4 - Fix: make sure the DB connection is ready in serverless environments like Vercel
+## Step 3 - Fix: make sure the DB connection is ready in serverless environments like Vercel
 
 - Why:
     - Vercel is a "serverless" environment
@@ -61,6 +72,13 @@ Option 2:
         - `app.js`: import connectDB + add the code to invoke it for each request
 
 
+## Step 4 - Frontend
+
+- Deploy the Frontend in Vercel
+- note: mention the possibility of buying a domain to make it look better in their portfolio.
+
+
+
 ## Step 5 - Fix: error reloading a page (and/or when you share a link other than the homepage)
 
 - Problem: When you reload a page other than the homepage (e.g. /projects), you get a 404 error
@@ -71,10 +89,11 @@ Option 2:
 - Solution: https://chatgpt.com/share/6970e390-d304-8003-8fdc-9b3dcf124140
 
 
-## Step 6:
+## Step 6 - Submit project URLs
 - Submit URLs in the Student Portal
 - Screenshot: https://drive.google.com/file/d/1un8OZoDSpSr33VmqziNPOJT8qGVpAwch/view?usp=sharing
 - Deadline: today, 5pm
 
 
-
+## Step 7
+- (optional) git stash pop
